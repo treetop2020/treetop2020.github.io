@@ -1,5 +1,5 @@
 # About
-プログラミング勉強中です
+Pythonを勉強中です
 
 ## Profile
 - treetop2020
