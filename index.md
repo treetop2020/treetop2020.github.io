@@ -9,10 +9,10 @@
 
 # Skills
 使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
-- OS（Windows,Ubuntuなど）
-- Languages（JavaScriptなど）
-- Engine,Frameworks (Node.js, Expressなど)
-- Tool,MiddleWare（Git, PostgreSQLなど）
+- OS（Windows,Ubuntu）
+- Languages（JavaScript）
+- Engine,Frameworks (Node.js, Express)
+- Tool,MiddleWare（Git, PostgreSQL）
 
 # Works
 アピールできる活動内容を書きましょう。
@@ -20,7 +20,7 @@
 - 作った作品
   - [作品1](作品1のURL)
   <iframe src="https://www.openprocessing.org/sketch/955805/embed/" width="400" height="300"></iframe>
-  - [作品2](作品2のURL)
+  - [slack bot](作品2のURL)
 
 # Contact
 連絡先を書きましょう。
