@@ -14,8 +14,7 @@
 # Works
 - [GitHub](https://github.com/treetop2020)
 - 作った作品
-  - [slack bot](作品2のURL)
-  - [時間あてゲーム](作品1のURL)
+  - [時間あてゲーム](https://progedu.github.io/intro-sample/js-object.html)
   - [いいところ診断](作品1のURL)
   - [匿名掲示板](作品1のURL)
   - [スケジュール調整サービス](作品1のURL)
