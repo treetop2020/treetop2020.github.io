@@ -7,7 +7,7 @@
 
 # Skills
 - OS（Windows,Ubuntu）
-- Languages（JavaScript）
+- Languages（JavaScript,R）
 - Engine,Frameworks (Node.js, Express)
 - Tool,MiddleWare（Git, PostgreSQL）
 
